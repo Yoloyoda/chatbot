@@ -1,0 +1,61 @@
+@charset "ISO-8859-1";
+/*Definition body tag in html*/
+body { 
+	color: #421; 
+	font-weight: bold; 
+	font-size: 18px; 
+	font-family: "Courier New"; 
+	background: rgb(223, 242, 247); 
+	overflow:scroll;
+	background-image: url("wedding.jpg");
+	background-size:contain;
+    background-repeat:no-repeat;
+   	background-attachment: fixed;			
+}
+
+/* Definition what comes after body tag in html */
+body::after {
+	content: "";
+	opacity: 0.5;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1;   
+  }
+
+/* Define color of user-response and bot-response text */
+span { 
+	color: rgb(36, 17, 119); 
+} 
+
+/* Define color text in input box */
+::-webkit-input-placeholder { 
+	color: #711;
+}
+
+#main { 
+	top: 0%;
+	right: 300px; 
+	width: 150px; 
+	border: 0px solid #421; 
+	padding: 0px; 
+}
+/* div*/
+/* Define placecment and form of input box */
+div { 
+	  position:relative;
+	  top: 10px;
+  	  left: 470px;
+  	  width: 300px; 
+}
+
+
+/* Definition input text box */
+#input { 
+	top: 50%;
+	border: 0; 
+	padding: 5px; 
+	border: 1px solid #421;   /* input frames */
+}
