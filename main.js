@@ -27,6 +27,7 @@ const trigger = [
   /*15*/  ["what should i eat today"],
   /*16*/  ["bro"],
   /*17*/  ["what", "why", "how", "where", "when"]
+ /*18*/  ["drink", "party", "shot", "alcohol"]
 ];
 
 //These are bot responses, paired in order with the above 'trigger' phrases
@@ -50,7 +51,7 @@ const reply = [
 /*7*/  ["I am nameless", "I don't have a name"],
  /*8*/   ["I love you too", "Me too"],
  /*9*/   ["I'm truly happy for you two:)", "Glad to hear it!", "You two love birds!", "Great! Wishing you a lifetime of love and happiness."
-	      ,"Congratulations! Honeymoon to Tokyo maybe?","Nice! I want to give you hugs with my robotic arms"
+	      ,"Congratulations!", "Congratulations! Honeymoon to Botland maybe?","Nice! I want to give you hugs with my robotic arms"
 	      ,"So happy! Haven't being this happy since I was made by God","What a wonderful day for our family!"],
  /*10*/  ["Why?", "Why? You shouldn't care so much!", "Sorry to hear that.Try watching TV. The office is a good show",
 	      "I feel you bro", "Sorry to hear that.", "Sorry to hear that. Soon will be better!","Oj..Always look on the bright side of life!"
@@ -67,6 +68,7 @@ const reply = [
  /*15*/  ["Sushi", "Pizza"],
  /*16*/  ["Bro!"],
  /*17*/  ["Yes?","I dont know. I'm just happy for your big day!","I dont know. Sure today is happy!"]
+/*18*/  ["My favorite drinking games are: BeerPong and Ring of Fire","Alcohol is our best friend","Little party never killed nobody"]
 ];
 
 //This is a small set of basically random 'catch alls' for anything that the user enters outside of the possible trigger phrases
@@ -74,7 +76,7 @@ const reply = [
 const alternative = [
   "Same",
   "Sorry, I was born yesterday so some words are hard to comprehend",
-  "What do you mean? Is it something only for grown-ups?",
+  "What do you mean? Is it something only for grown ups?",
   "Bro",
   "Try again",
   "I'm listening..."
@@ -194,3 +196,14 @@ function speak(string) {
   u.pitch = 1; //0-2 interval
   synth.speak(u);
 }
+
+window.onload = function() {
+	  alert("Congratulations on your wedding! I'm so happy for you two:)\n" +
+	  		"I am a bot created to congradulate your big day and to celebrate it together.\n \n"+
+			"-Tell me about the ceremony by wrtitting something in the box.\n" +
+	  		"-Sometimes I don't understand words since my vocabularies are limited.\n\n"+
+	  		"Note:\n"+
+	  		"-If you have your speaker on, I might speak to you.\n"+
+	  		"-If the language of your device is NOT set to English, I might sound like a clown.\n"
+			  );
+	};

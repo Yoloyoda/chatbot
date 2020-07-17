@@ -53,6 +53,30 @@ div {
   	  width: 300px; 
 }
 
+.no-titlebar {
+  padding: 0;
+}
+.no-titlebar .ui-dialog-titlebar {
+  background: none;
+  border: none;
+  height: 0;
+  border-top: 0px solid #000;
+  border-radius: 0;
+  padding: 0;
+}
+.no-titlebar .ui-dialog-titlebar .ui-dialog-title {
+  display: none;
+}
+.no-titlebar .ui-dialog-titlebar button {
+  display: none;
+}
+
+.example-dialog .ui-dialog-titlebar-close {
+  top: 18px;
+}
+.example-dialog.ui-dialog-content {
+  position: static;
+}
 
 /* Definition input text box */
 #input { 
