@@ -26,7 +26,7 @@ const trigger = [
   /*14*/  ["bye", "good bye", "goodbye", "see you later"],
   /*15*/  ["what should i eat today"],
   /*16*/  ["bro"],
-  /*17*/  ["what", "why", "how", "where", "when"]
+  /*17*/  ["what", "why", "how", "where", "when"],
  /*18*/  ["drink", "party", "shot", "alcohol"]
 ];
 
@@ -67,7 +67,7 @@ const reply = [
  /*14*/  ["Bye", "Goodbye", "See you later"],
  /*15*/  ["Sushi", "Pizza"],
  /*16*/  ["Bro!"],
- /*17*/  ["Yes?","I dont know. I'm just happy for your big day!","I dont know. Sure today is happy!"]
+ /*17*/  ["Yes?","I dont know. I'm just happy for your big day!","I dont know. Sure today is happy!"],
 /*18*/  ["My favorite drinking games are: BeerPong and Ring of Fire","Alcohol is our best friend","Little party never killed nobody"]
 ];
 
