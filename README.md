@@ -17,3 +17,6 @@ Basic features
 <p>-Tell the bot to tell you a joke.</p>
 &nbsp;<img align="left" src="https://github.com/Yoloyoda/chatbot/blob/master/Chatbot_Demo3.png" width="600" height="300"/> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p>-The bot lacks vocabulary so often it will not reply to your question </p>
+<p>-The buzzword feature. Type corona.</p>
+&nbsp;<img align="left" src="https://github.com/Yoloyoda/chatbot/blob/master/Chatbot_Demo4.png" width="600" height="300"/> 
