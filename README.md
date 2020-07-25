@@ -13,5 +13,7 @@ Basic features
 </p>
 <p>-Ask who the bot is.</p>
 &nbsp;<img align="left" src="https://github.com/Yoloyoda/chatbot/blob/master/Chatbot_Demo2.png" width="600" height="300"/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p>-Tell the bot to tell you a joke.</p>
 &nbsp;<img align="left" src="https://github.com/Yoloyoda/chatbot/blob/master/Chatbot_Demo3.png" width="600" height="300"/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
