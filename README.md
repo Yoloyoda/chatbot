@@ -6,8 +6,8 @@ but it works for keeping up a few conversations.
 
 Basic features
 <p>-Give a simple reply to what you thought of the wedding(e.g. good, bad, great, terrible). </p>
-&nbsp;<img align="left" src="https://github.com/Yoloyoda/chatbot/blob/master/Chatbot_Demo1.PNG" width="250" height="100"/> 
-<br/><br/><br/>
+&nbsp;<img align="left" src="https://github.com/Yoloyoda/chatbot/blob/master/Chatbot_Demo1.PNG" width="450" height="200"/> 
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <p>-If your device has sound on the bot will have voice over its texts. Depending on your device language setting
  it might sound like a clown.
 </p>
