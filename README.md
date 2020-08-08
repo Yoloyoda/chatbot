@@ -4,7 +4,7 @@ Instead I thought the chatbot can do it for me. Not a fancy chat bot nor using f
 but it works for keeping up a few conversations.
 
 
-Basic features
+<b>Basic features</b>
 <p>-Give a simple reply to what you thought of the wedding(e.g. good, bad, great, terrible). </p>
 &nbsp;<img align="left" src="https://github.com/Yoloyoda/chatbot/blob/master/Chatbot_Demo1.PNG" width="600" height="300"/> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
